@@ -1,0 +1,17 @@
+header{
+    font-size:60px;
+    font-style:italic;
+    padding-left:30px;
+    padding-right:30;
+    padding-left:40px;
+    padding-right:40px;
+    color:aqua;
+    text-align: center;
+}
+nav{
+    font-size:20px;
+    color:greenyellow;
+}
+body{
+    background-color: black;
+}
